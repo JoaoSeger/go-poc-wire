@@ -12,10 +12,6 @@ Este é um projeto de exemplo que demonstra o uso do Google Wire para injeção 
 ## Como executar o projeto
 
 1. Clone o repositório:
-```
-git clone https://github.com/meseger/portifolio.git
-cd portifolio/wire
-```
 
 2. Execute o gerador do Wire (caso precise fazer alterações):
 ```
